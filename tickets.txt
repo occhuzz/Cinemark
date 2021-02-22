@@ -1,0 +1,1090 @@
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 3
+Cant. descuentos: 0
+Precio total: $166.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 3
+Cant. descuentos: 1
+Precio total: $149.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 2
+Cant. descuentos: 0
+Precio total: $111.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 5
+Cant. descuentos: 1
+Precio total: $260.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Avengers: End Game
+Sala: 1
+Dia: 2/3/2019
+Hora: 15:30
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 0
+Precio total: $111.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 2
+Precio total: $188.70
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 1
+Precio total: $205.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 3/3/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 0
+Precio total: $222.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 4/3/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 4/3/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 1
+Precio total: $205.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Rambo XXI
+Sala: 2
+Dia: 4/3/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 2
+Precio total: $22.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 2
+Cant. descuentos: 1
+Precio total: $94.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 2
+Cant. descuentos: 1
+Precio total: $94.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 2
+Cant. descuentos: 1
+Precio total: $94.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Joker
+Sala: 3
+Dia: 10/10/2019
+Hora: 20:20
+Cant. entradas: 2
+Cant. descuentos: 0
+Precio total: $111.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 1
+Precio total: $94.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 1
+Precio total: $94.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 1
+Precio total: $149.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 0
+Precio total: $111.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 3
+Precio total: $227.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: Batman
+Sala: 1
+Dia: 1/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 1
+Precio total: $205.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 0
+Precio total: $222.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 2
+Precio total: $77.70
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 1
+Precio total: $149.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 0
+Precio total: $222.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 1
+Precio total: $260.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 2
+Precio total: $188.70
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 1
+Precio total: $38.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 1
+Precio total: $149.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 0
+Precio total: $222.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 0
+Precio total: $277.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 3
+Precio total: $227.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 1
+Precio total: $149.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 2
+Precio total: $77.70
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 3
+Precio total: $61.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: X-Men
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 2
+Precio total: $133.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 0
+Precio total: $166.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 2
+Precio total: $77.70
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 1
+Precio total: $38.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 1
+Precio total: $205.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 1
+Precio total: $205.35
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 0
+Precio total: $111.00
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 2
+Precio total: $244.20
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 3
+Precio total: $227.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 0
+Precio total: $166.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 3
+Precio total: $61.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 5
+Cant. descuentos: 1
+Precio total: $260.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 2
+Cant. descuentos: 3
+Precio total: $61.05
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 0
+Precio total: $166.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 0
+Precio total: $55.50
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 3
+Precio total: $5.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 3
+Cant. descuentos: 3
+Precio total: $116.55
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 1
+Cant. descuentos: 1
+Precio total: $38.85
+**********************************
+
+********* CINEMARK ARGENTINA *********
+Pelicula: IT
+Sala: 2
+Dia: 3/5/2019
+Hora: 16:10
+Cant. entradas: 4
+Cant. descuentos: 3
+Precio total: $172.05
+**********************************
+

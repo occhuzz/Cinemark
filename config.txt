@@ -1,0 +1,3 @@
+Empresa: Cinemark
+Precio de entrada ($): 55.50
+Descuento Club INSPT (%): 30
